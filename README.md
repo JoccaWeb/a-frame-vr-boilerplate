@@ -1,7 +1,7 @@
 # a-frame-vr-boilerplate
 Browser VR experiences in A-Frame.
 
-[JoccaWeb.nl](https://www.joccaweb.nl/) july 2018
+[JoccaWeb.nl](http://joccaweb.nl/) july 2018
 
 Welcome to my VR - A-Frame - JavaScript "starter-kit" or "boilerplate"!
 
