@@ -12,7 +12,7 @@ If you're more inclined to strictly game-developing in VR, I would advise Unity.
 
 (Babel and React are configured in for ES6 and React support, but not particarly used, it was just handy to keep it in for possible React - A-Frame projects)
 
-To make production code for my A-Frame projects, I'll use A-Frame minified and self-hosted, using a script tag. During development I'll use Webpack 4 with CDN script tags for A-Frame and it's components.
+To make production code for A-Frame projects, I used an A-Frame minified file and hosted it myself, using a script tag. During development I used Webpack 4 with CDN script tags for A-Frame and it's components.
 
 So start up the project and build your own VR experience in A-Frame!
 
