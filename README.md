@@ -7,7 +7,7 @@ Welcome to my VR - A-Frame - JavaScript "starter-kit" or "boilerplate"!
 
 This boilerplate assumes intermediate knowledge of vanilla JavaScript, HTML5 and Webpack. Some A-Frame and Blender beginner knowledge wouldn't hurt either.
 
-The goal of this project is to have a (relatively) quick way to set up VR experiences in the browser for frontend developers.
+The goal of this project is to have a (relatively) quick way to set up VR experiences in the browser for frontend developers.<br>
 If you're more inclined to strictly game-developing in VR, I would advise Unity. Unity does have somewhat JavaScript-like support but you'll find it's very handy to know C#. Nevertheless, in A-Frame there are a lot of possibilities for interactive VR experiences directly in the browser for users with any VR headset.
 
 (Babel and React are configured in for ES6 and React support, but not particarly used, it was just handy to keep it in for possible React - A-Frame projects)
