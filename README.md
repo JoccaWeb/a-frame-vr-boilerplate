@@ -5,7 +5,7 @@ JoccaWeb.nl july 2018
 
 Welcome to my VR - A-Frame - JavaScript "starter-kit" or "boilerplate"!
 
-[![glTF](misc/glTF_logo.png)](https://www.khronos.org/gltf/) 
+[![glTF](img/modal02-aframe-vr-b.jpg)](https://www.khronos.org/gltf/) 
 
 This boilerplate assumes intermediate knowledge of vanilla JavaScript, HTML5 and Webpack. Some A-Frame and Blender beginner knowledge wouldn't hurt either.
 
