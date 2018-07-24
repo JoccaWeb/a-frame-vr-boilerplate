@@ -9,10 +9,10 @@ Welcome to my VR - A-Frame - JavaScript "starter-kit" or "boilerplate"!
 
 This boilerplate assumes intermediate knowledge of vanilla JavaScript, HTML5 and Webpack (and Yarn). Some A-Frame and Blender beginner knowledge wouldn't hurt either.
 
-The goal of this project is to have a (relatively) quick way to set up VR experiences in the browser for frontend developers.<br>
-If you're more inclined to strictly game-developing in VR, I would advise Unity. Unity does have somewhat JavaScript-like support but you'll find it's very handy to know C#. Nevertheless, in A-Frame there are a lot of possibilities for interactive VR experiences directly in the browser for users with any VR headset.
+The goal of this project is to have a quick way to set up VR experiences in the browser for frontend developers.<br>
+If you're more inclined to strictly game-developing in VR, I would advise Unity. Unity does have somewhat JavaScript-like support but you'll find it's very handy to know C#.
 
-(Babel and React are configured in for ES6 and React support, but not particarly used, it was just handy to keep it in for possible React - A-Frame projects)
+Nevertheless, in A-Frame there are a lot of possibilities for interactive VR experiences directly in the browser for users with any VR headset.
 
 For both production and development code for A-Frame projects, I use an A-Frame minified file (a build). See Resources for the builds on A-Frame's GitHub repo. I host it myself, using a script tag (no NPM, see the Development log). The assets-, components- and library folders will have to be put manually in the dist folder after running the build script from package.json. Working on that.
 
@@ -21,6 +21,7 @@ So start up the project and build your own VR experience in A-Frame!
 ## Development log
 
 - With version 0.8.0, some components (K-Frame, A-Frame Extra's and others) don't work (yet). I'll keep it on 0.7.0 for now. The environment component now does work with 0.8.0. I'll disable it's floor, so that I have more control. For example, making a hole in the floor for a pond/sea/swimming pool.
+- Babel and React are configured in for ES6 and React support, but not particarly used, it was just handy to keep it in for possible React - A-Frame projects.
 - I installed Webpack 4 and A-Frame through NPM and it worked, but there was an exceeded asset size warning. I'm unsure if it's necessary to configure Webpack 4 to split chunks for this. I'll wait 'till I see some more a-frame webpack 4 examples online.
 - Custom A-Frame components reside in the components directory.
 - Installed the Environment Component (version nr. unknown, it's the most recent version from june 2018).
