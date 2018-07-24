@@ -14,7 +14,7 @@ If you're more inclined to strictly game-developing in VR, I would advise Unity.
 
 (Babel and React are configured in for ES6 and React support, but not particarly used, it was just handy to keep it in for possible React - A-Frame projects)
 
-For both production and development code for A-Frame projects, I use an A-Frame minified file and host it myself, using a script tag (no NPM, see the Development log). The assets-, components- and library folders will have to be put manually in the dist folder after running the build script from package.json. Working on that.
+For both production and development code for A-Frame projects, I use an A-Frame minified file (a build) and host it myself, using a script tag (no NPM, see the Development log). The assets-, components- and library folders will have to be put manually in the dist folder after running the build script from package.json. Working on that.
 
 So start up the project and build your own VR experience in A-Frame!
 
@@ -48,9 +48,10 @@ Update june 2018: Now you can put on the headset, start the Oculus browser and s
 ## Resources
 
 - [A-Frame site](https://aframe.io/)
-- [A-Frame on GitHub (including boilerplate code)](https://github.com/aframevr)
-- [A-Frame's changelog](https://github.com/aframevr/aframe/blob/master/CHANGELOG.md)
+- [A-Frame on GitHub](https://github.com/aframevr)
+- [A-Frame's Changelog](https://github.com/aframevr/aframe/blob/master/CHANGELOG.md)
 - [A-Frame Registry](https://aframe.io/aframe-registry/)
+- [A-Frame's builds](https://github.com/aframevr/aframe/#builds)
 - [A-Frame K-Frame (Kevin Ngo, Animation- and Event Set Component)](https://github.com/ngokevin/kframe)
 - [A-Frame Extra's](https://github.com/donmccurdy/aframe-extras)
 - [A-Frame Environment Component](https://github.com/feiss/aframe-environment-component)
