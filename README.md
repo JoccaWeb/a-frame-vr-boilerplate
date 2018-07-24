@@ -49,7 +49,7 @@ Update june 2018: Now you can put on the headset, start the Oculus browser and s
 - [A-Frame on GitHub (including boilerplate code)](https://github.com/aframevr)
 - [A-Frame's changelog](https://github.com/aframevr/aframe/blob/master/CHANGELOG.md)
 - [A-Frame Registry](https://aframe.io/aframe-registry/)
-- [A-Frame K-Frame (Kevin Ngo, Animion- and Event Set Component ao.)](https://github.com/ngokevin/kframe)
+- [A-Frame K-Frame (Kevin Ngo, Animation- and Event Set Component)](https://github.com/ngokevin/kframe)
 - [A-Frame Extra's](https://github.com/donmccurdy/aframe-extras)
 - [A-Frame Environment Component](https://github.com/feiss/aframe-environment-component)
 - [A-Frame Gradient Sky](https://github.com/zcanter/aframe-gradient-sky)
