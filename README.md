@@ -1,7 +1,8 @@
 # a-frame-vr-boilerplate
-Browser VR experiences in A-Frame.
+Browser VR experiences with A-Frame.
 
-[JoccaWeb.nl](http://joccaweb.nl/) july 2018
+[JoccaWeb.nl](http://joccaweb.nl/), july 2018.<br>
+Currently A-Frame version 0.7.0.
 
 Welcome to my VR - A-Frame - JavaScript "starter-kit" or "boilerplate"!
 
